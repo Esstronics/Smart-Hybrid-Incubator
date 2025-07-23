@@ -1,6 +1,7 @@
 # Smart-Hybrid-Incubator
 
-Incubator/front.jpg
+![Incubator Diagram](Smart-Hybrid-Incubator/images/Incubator/front.jpg)
+
 
  *About the System*
 

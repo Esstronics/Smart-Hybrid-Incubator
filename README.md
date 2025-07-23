@@ -1,5 +1,7 @@
 # Smart-Hybrid-Incubator
 
+Incubator/front.jpg
+
  *About the System*
 
 The Smart Hybrid Incubator System is an intelligent device that simulates optimal environmental conditions—temperature, humidity, and egg turning—to support successful egg incubation. It operates using both AC and DC power sources for flexibility and reliability, especially in areas with inconsistent electricity.
@@ -19,3 +21,4 @@ Data is also logged internally and can be accessed later for analysis or trouble
 In IoT mode, the incubator connects to a cloud-based server where all operational data is stored securely. Users interact with the system through a dedicated Android app, which provides real-time visualization of key parameters such as temperature, humidity, number of turns, and incubation progress.
 The app allows users to adjust settings remotely, including target temperature and humidity ranges, daily turning frequency, and candling schedules. Candling helps identify infertile or non-developing eggs early, saving time and resources.
 Notifications and alerts are sent directly to the user’s mobile device in case of anomalies like temperature fluctuations or mechanical issues, ensuring timely intervention.
+
